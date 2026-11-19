@@ -44,15 +44,15 @@ Você vai preencher um **documento Word** durante a atividade e enviá-lo na **t
 
 | Parte    | O que você faz | Tempo esperado | Tempo acumulado |
 |---|---|---|---|
-| Parte 1 | Ler o essencial da teoria | 5 min | 5 min |
-| Etapa 0 | Criar a cópia do repositório, baixar o modelo e abrir o Codespace | 7 min | 12 min |
-| Etapa 1 | Gerar e conhecer o repositório da Cais Azul · 📸 Evidência 1 | 4 min | 16 min |
-| Etapa 2 | Varrer a versão atual · 📸 Evidência 2 | 4 min | 20 min |
-| Etapa 3 | Varrer o histórico · 📸 Evidência 3 | 6 min | 26 min |
-| Etapa 4 | Confirmar no Git que "apagar" não apagou · 📸 Evidência 4 | 5 min | 31 min |
-| Etapa 5 | Encontrar o que a ferramenta não viu · 📸 Evidência 5 | 6 min | 37 min |
-| Etapa 6 | Classificar os achados (tabela) | 8 min | 45 min |
-| Etapa 7 | Encerrar o Codespace e enviar no Teams | 4 min | 49 min |
+| Parte&nbsp;1 | Ler o essencial da teoria | 5 min | 5 min |
+| Etapa&nbsp;0 | Criar a cópia do repositório, baixar o modelo e abrir o Codespace | 7 min | 12 min |
+| Etapa&nbsp;1 | Gerar e conhecer o repositório da Cais Azul · 📸 Evidência 1 | 4 min | 16 min |
+| Etapa&nbsp;2 | Varrer a versão atual · 📸 Evidência 2 | 4 min | 20 min |
+| Etapa&nbsp;3 | Varrer o histórico · 📸 Evidência 3 | 6 min | 26 min |
+| Etapa&nbsp;4 | Confirmar no Git que "apagar" não apagou · 📸 Evidência 4 | 5 min | 31 min |
+| Etapa&nbsp;5 | Encontrar o que a ferramenta não viu · 📸 Evidência 5 | 6 min | 37 min |
+| Etapa&nbsp;6 | Classificar os achados (tabela) | 8 min | 45 min |
+| Etapa&nbsp;7 | Encerrar o Codespace e enviar no Teams | 4 min | 49 min |
 | **Total** | | **cerca de 50 min** | |
 
 > ⏱️ Se uma etapa passar muito do tempo esperado, consulte [Problemas comuns](#problemas-comuns) ou chame o professor.
