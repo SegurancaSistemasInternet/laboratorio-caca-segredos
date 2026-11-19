@@ -42,7 +42,7 @@ Você vai preencher um **documento Word** durante a atividade e enviá-lo na **t
 
 **Quanto tempo leva**
 
-| Parte | O que você faz | Tempo esperado | Tempo acumulado |
+| Parte    | O que você faz | Tempo esperado | Tempo acumulado |
 |---|---|---|---|
 | Parte 1 | Ler o essencial da teoria | 5 min | 5 min |
 | Etapa 0 | Criar a cópia do repositório, baixar o modelo e abrir o Codespace | 7 min | 12 min |
