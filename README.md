@@ -103,7 +103,7 @@ Você vai preencher um **documento Word** durante a atividade e enviá-lo na **t
 2. **Crie a sua cópia deste repositório:** acima da lista de arquivos desta página, ao lado do botão **Code**, clique no botão verde **Use this template → Create a new repository**. Em *Owner*, escolha a **sua conta**; dê um nome (por exemplo, `laboratorio-caca-segredos`) e clique em **Create repository**.
 3. **Baixe o modelo de entrega da sua cópia:** na página da sua cópia (o endereço no navegador começa com `github.com/SEU-USUARIO/`), abra a pasta **`entrega`**, clique em **`Modelo-Entrega-Caca-Segredos.docx`** e use o botão **⬇ Download raw file**, à direita, acima da área do arquivo. Abra o arquivo no Word e preencha nome, RA, turma e data.
 4. **Ainda na sua cópia**, volte à página inicial dela e clique no botão verde **Code → aba Codespaces → Create codespace on main**. Assim o Codespace fica na sua conta e usa a sua cota.
-5. Aguarde: na primeira vez, a criação e a instalação do gitleaks levam de 2 a 3 minutos. O editor abre no navegador, com este README à esquerda e um terminal embaixo.
+5. Aguarde: na primeira vez, a criação e a instalação do gitleaks levam de 2 a 3 minutos. O editor abre no navegador. Para acompanhar este roteiro enquanto trabalha, coloque o README no modo de pré-visualização: clique no arquivo `README.md` no painel de arquivos e pressione **Ctrl + Shift + V**. A pré-visualização abre ao lado do editor; deixe-a visível e abra o terminal em **☰ → Terminal → New Terminal**.
 6. Quando a instalação terminar, confira:
 
 ```bash
