@@ -1,0 +1,19 @@
+# ---------------------------------------------------------------------------
+# Configuração do gitleaks usada na Etapa 5 do roteiro.
+#
+# [extend] useDefault = true  -> mantém TODAS as regras padrão do gitleaks
+# [[rules]]                    -> acrescenta uma regra nova, feita para o
+#                                 código da Cais Azul, escrito em português
+# ---------------------------------------------------------------------------
+title = "Regras padrão do gitleaks + senha escrita em português"
+
+[extend]
+useDefault = true
+
+[[rules]]
+id = "senha-em-portugues"
+description = "Senha escrita no código numa variável com 'senha' no nome"
+# senha..., espaços, = ou :, espaços, aspas, o valor (6 ou mais caracteres), aspas
+regex = '''(?i)senha[\w.-]{0,40}\s*(?:=|:)\s*["']([^"'\s]{6,})["']'''
+secretGroup = 1
+keywords = ["senha"]

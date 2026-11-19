@@ -1,0 +1,11 @@
+# Repositório fictício gerado pelo preparar.sh: fica só no Codespace.
+# NUNCA envie esta pasta para o GitHub: ela contém (falsos) segredos.
+portalagenda/
+
+# Relatórios do gitleaks gerados durante o roteiro
+relatorio*.json
+
+# Sistema e editores
+.DS_Store
+Thumbs.db
+.vscode/
